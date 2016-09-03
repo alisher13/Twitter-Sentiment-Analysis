@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = https://proevolution@bitbucket.org/proevolution/twitter-influenza-project.git
+	fetch = +refs/*:refs/*
+	mirror = true
